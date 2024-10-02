@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes/Proba.md",
+                "file": "DAM2/Acceso a Datos/UD01/00 - Introducción.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c6f85cc061fd764f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apuntes/Proba.md",
+                "file": "DAM2/Acceso a Datos/UD01/00 - Introducción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apuntes/Proba.md",
+                "file": "DAM2/Acceso a Datos/UD01/00 - Introducción.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apuntes/Proba.md"
+                "file": "DAM2/Acceso a Datos/UD01/00 - Introducción.md"
               }
             }
           }
@@ -147,11 +148,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd3f38385c79700c",
+  "active": "1d249d480c542481",
   "lastOpenFiles": [
-    "Apuntes/Olaaaa Que tal todo.md",
-    "Apuntes/Proba.md",
+    "DAM2/Proba.md",
+    "DAM2/Acceso a Datos/UD01/00 - Introducción.md",
+    "DAM2/Acceso a Datos/UD01",
+    "DAM2/Acceso a Datos",
+    "DAM2/Olaaaa Que tal todo.md",
     "Apuntes/Olaaaa.md",
-    "Apuntes"
+    "DAM2"
   ]
 }
