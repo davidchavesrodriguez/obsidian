@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes/Olaaaa.md",
+                "file": "Apuntes/Proba.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apuntes/Olaaaa.md",
+                "file": "Apuntes/Proba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apuntes/Olaaaa.md",
+                "file": "Apuntes/Proba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apuntes/Olaaaa.md"
+                "file": "Apuntes/Proba.md"
               }
             }
           }
@@ -148,8 +147,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42517aabb8e5219f",
+  "active": "fd3f38385c79700c",
   "lastOpenFiles": [
+    "Apuntes/Olaaaa Que tal todo.md",
+    "Apuntes/Proba.md",
     "Apuntes/Olaaaa.md",
     "Apuntes"
   ]
