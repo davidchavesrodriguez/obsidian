@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd3f38385c79700c",
+            "id": "ab301614357b0348",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAM2/Acceso a Datos/UD01/00 - Introducción.md",
+                "file": "DAM2/AD/UD01/00 - Introducción.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c6f85cc061fd764f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAM2/Acceso a Datos/UD01/00 - Introducción.md",
+                "file": "DAM2/AD/UD01/00 - Introducción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAM2/Acceso a Datos/UD01/00 - Introducción.md",
+                "file": "DAM2/AD/UD01/00 - Introducción.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAM2/Acceso a Datos/UD01/00 - Introducción.md"
+                "file": "DAM2/AD/UD01/00 - Introducción.md"
               }
             }
+          },
+          {
+            "id": "87ca3e98d05ce1b8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,12 +155,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d249d480c542481",
+  "active": "ab301614357b0348",
   "lastOpenFiles": [
+    "DAM2/SXE/ERP.md",
+    "DAM2/SXE/Sistemas BI.md",
+    "ERM.md",
+    "DAM2/PSP/Procesos de Programación.md",
+    "DAM2/SXE",
+    "DAM2/AD/UD01/00 - Introducción.md",
+    "DAM2/PSP",
     "DAM2/Proba.md",
-    "DAM2/Acceso a Datos/UD01/00 - Introducción.md",
-    "DAM2/Acceso a Datos/UD01",
-    "DAM2/Acceso a Datos",
+    "DAM2/AD/UD01",
+    "DAM2/AD",
     "DAM2/Olaaaa Que tal todo.md",
     "Apuntes/Olaaaa.md",
     "DAM2"
