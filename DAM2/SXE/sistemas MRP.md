@@ -1,0 +1,2 @@
+*Material Requirements Planning Systems*  
+Creados durante a [[Segunda Guerra Mundial]], son servicios que permitirían levar un control de actividades como pagos, inventario... Estos veríanse mellorados durante os anos 60 e 70.
