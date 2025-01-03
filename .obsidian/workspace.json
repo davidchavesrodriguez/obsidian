@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Clase File"
             }
+          },
+          {
+            "id": "31aced296b8a914a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,10 +198,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cd66aecd911b5d1",
+  "active": "31aced296b8a914a",
   "lastOpenFiles": [
-    "Java/Java IO.md",
+    "arquitectura modular.md",
+    "conflict-files-obsidian-git.md",
     "Java/Clase File.md",
+    "DAM2/AD/UD01/00 - Introducción.md",
+    "DAM2/SXE/ERP.md",
+    "DAM2/SXE/sistemas MRP.md",
+    "DAM2/SXE/Sistemas BI.md",
+    "DAM2/SXE/CRM.md",
+    "DAM2/PSP/Procesos de Programación.md",
+    "DAM2/AD/UD01",
+    "DAM2/SXE",
+    "DAM2/PSP",
+    "DAM2/AD",
+    "DAM2",
+    "Java/Java IO.md",
     "Java/API.md",
     "Java/Fluxos de buffer.md",
     "Java/Fluxos de caracteres.md",
@@ -201,7 +228,6 @@
     "DAM2/Acceso a Datos/UD01/00 - Introducción.md",
     "DAM2/Acceso a Datos/UD01",
     "DAM2/Acceso a Datos",
-    "DAM2",
     "Untitled.canvas",
     "2024-10-03.md",
     "DAM2/Proba.md",
